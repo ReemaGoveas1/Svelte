@@ -1,6 +1,6 @@
 <script>
     import {unsubmittedRowsData, isDetailPanelOpen} from '../stores/unsubmittedCharges'
-import UnsubmittedDetailPanel from './unsubmittedDetailPanel.svelte';
+    import UnsubmittedDetailPanel from './UnsubmittedDetailPanel.svelte';
     
     console.log($unsubmittedRowsData);
     let columns = ["Date of service", "Performing Provider", "Supervising Provider", "Referring Provider"]

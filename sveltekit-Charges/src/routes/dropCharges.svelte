@@ -1,6 +1,6 @@
 <script>
-import SubmittedRows from "../components/submittedRows.svelte";
-import UnsubmittedRows from "../components/unsubmittedRows.svelte";
+import SubmittedRows from "../components/SubmittedRows.svelte";
+import UnsubmittedRows from "../components/UnsubmittedRows.svelte";
 
 </script>
 

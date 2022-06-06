@@ -1,6 +1,6 @@
 <script>
-import Login from "../components/login.svelte";
-import Nav from "../components/nav.svelte";
+import Login from "../components/Login.svelte";
+import Nav from "../components/Nav.svelte";
 import {isLoginOpen} from "../stores/popupStore"
 
 </script>

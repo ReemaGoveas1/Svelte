@@ -1,5 +1,5 @@
 <script>
-import Menu from './menu.svelte';
+import Menu from './Menu.svelte';
 import {store} from '../stores/loginStore'
 
 </script>

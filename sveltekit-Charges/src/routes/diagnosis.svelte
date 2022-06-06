@@ -9,8 +9,8 @@
     }
 </script>
 <script>
-import AddDiagnosis from "../components/addDiagnosis.svelte";
-import DiagnosisCard from "../components/diagnosisCard.svelte";
+import AddDiagnosis from "../components/AddDiagnosis.svelte";
+import DiagnosisCard from "../components/DiagnosisCard.svelte";
 import { isAddDiagnosisOpen, diagnosisLength} from '../stores/diagnosisStore'
 
     export let diagnosis;
